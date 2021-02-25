@@ -6,10 +6,6 @@ I'm skilled in Java, Javascript, Typescript, C# and C++.
 
 My pronouns are He/Him.
 
-### I'm looking for a full-time job starting in June 2021!
-
-[Take a look at my CV](https://drive.google.com/file/d/1JEDSZdpaI7IrbCp7cAlx_lgvK_oiXqd3/view?usp=sharing) and [send me an email](mailto:felix.lapierre1@gmail.com) if you have an opportunity that might interest me!
-
 #### What I'm interested in
 
 My main interest is web development. I mostly focus on the backend, but I can get by in the frontend too. 
