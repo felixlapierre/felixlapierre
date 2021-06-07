@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a fourth-year software engineering student at Concordia University. 
+I work at AppDirect as an Associate Software Developer.
+
+I have a degree in Software Engineering from Concordia University. 
 
 I'm skilled in Java, Javascript, Typescript, C# and C++. 
 
@@ -14,7 +16,7 @@ I also have a casual interest in game programming, and that's how I learned to c
 
 #### What I'm working on
 
-Right now, I'm the team lead for [Switchboard](https://github.com/bean-pod/switchboard), my team's Capstone project at Concordia. It's a web service that enables peer-to-peer video streaming between senders and receivers.
+Right now, I've been a developer at AppDirect since June 2021 in the Invoicing team.
 
 #### I've done a couple of internships
 
@@ -22,9 +24,9 @@ Right now, I'm the team lead for [Switchboard](https://github.com/bean-pod/switc
 * Coveo (Summer 2019) Frontend development in the Salesforce Integration team.
 * Genetec (Fall 2018) Software developer in the Device Integrations team.
 
-#### I'm the president of SCS Concordia
+#### I was involved with SCS Concordia
 
-SCS is the software engineering and computer science society at Concordia. As the president, I mostly organize our meetings, recruit new people, seek new initiatives for the society, and help everyone out. I also gave workshops on Git.
+SCS is the software engineering and computer science society at Concordia. I was the president of the society for the 2019-2020 and 2020-2021 academic years. Before that, I was VP Academic for the 2018-2019 academic year. As the president, I mostly organized our meetings, recruited new people, sought new initiatives for the society, and helped everyone out. I also gave workshops on Git.
 
 
 
