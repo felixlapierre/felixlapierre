@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I work at AppDirect as an Associate Software Developer.
-
 I have a degree in Software Engineering from Concordia University. 
 
 I'm skilled in Java, Javascript, Typescript, C# and C++. 
@@ -12,11 +10,13 @@ My pronouns are He/Him.
 
 My main interest is web development. I mostly focus on the backend, but I can get by in the frontend too. 
 
-I also have a casual interest in game programming, and that's how I learned to code when I started in 2016.
+I also have a casual interest in game programming, and that's how I learned to code when I started in 2016. My current project is called Earthrite, a mix between the deckbuilder and farming simulator genres - [you can go play it here!](https://github.com/felixlapierre/farmingDeckbuilder/)
 
 #### What I'm working on
 
-Right now, I've been a developer at AppDirect since June 2021 in the Invoicing team.
+Right now, I'm a Senior Software Developer at Slalom Build 🚀
+
+Before that, I worked at AppDirect as a Software Developer on the Core Billing team (2021-2024)
 
 #### I've done a couple of internships
 
